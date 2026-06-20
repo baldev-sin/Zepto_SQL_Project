@@ -56,6 +56,15 @@ quantity
 
 ---
 
+## Key Insights
+
+- Grocery category generated the highest estimated revenue.
+- Several premium products were out of stock.
+- Some products offered discounts above 70%.
+- Categories showed significant variation in average discount percentages.
+
+---
+
 ## 📊 Project Workflow
 
 ### 1. Data Exploration
