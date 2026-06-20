@@ -37,6 +37,10 @@ The dataset contains product-level information from Zepto, including:
 * Stock Availability
 * Quantity
 
+  ## 📂 Dataset Preview
+
+![Dataset Preview](screenshots/02_dataset_preview.png)
+
 ---
 
 ## 🗄️ Database Schema
@@ -62,7 +66,7 @@ outofstock
 
 quantity
 ```
-
+![Database Schema](screenshots/01_table_structure.png) 
 ---
 
 ## Key Insights
@@ -86,7 +90,7 @@ Performed exploratory analysis including:
 * Distinct product categories
 * In-stock vs out-of-stock products
 * Duplicate product names
-
+![Data Exploration](screenshots/03_data_exploration.png)
 ---
 
 ### 2. Data Cleaning
@@ -96,7 +100,7 @@ Cleaning steps performed:
 * Removed products having MRP = 0
 * Converted prices from paise to rupees
 * Validated cleaned data
-
+![Data Cleaning](screenshots/04_data_cleaning.png)
 ---
 
 ### 3. Business Analysis
@@ -106,6 +110,8 @@ The project answers the following business questions:
 ### Q1. Top 10 Best-Value Products
 
 Products with the highest discount percentage.
+
+![Top Discount Products](screenshots/05_top_discount_products.png)
 
 ### Q2. High MRP Products Currently Out of Stock
 
@@ -117,6 +123,8 @@ Calculates potential revenue using:
 
 Revenue = Discounted Selling Price × Available Quantity
 
+![Revenue by Category](screenshots/06_revenue_by_category.png)
+
 ### Q4. Premium Products with Low Discounts
 
 Products priced above ₹500 but offering less than 10% discount.
@@ -125,9 +133,13 @@ Products priced above ₹500 but offering less than 10% discount.
 
 Ranks categories based on average discount percentage.
 
+![Average Discount by Category](screenshots/07_avg_discount_by_category.png)
+
 ### Q6. Best Value Based on Price per Gram
 
 Calculates price per gram for products weighing at least 100g.
+
+![Price Per Gram](screenshots/08_price_per_gram.png)
 
 ### Q7. Product Weight Classification
 
@@ -142,6 +154,8 @@ based on product weight.
 ### Q8. Total Inventory Weight per Category
 
 Calculates the total inventory weight available for every category.
+
+![Inventory Weight](screenshots/09_inventory_weight.png)
 
 ---
 
