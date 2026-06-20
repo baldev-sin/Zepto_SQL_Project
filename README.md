@@ -1,7 +1,3 @@
-──────────────────────────────────────
-        Zepto E-Commerce SQL Project
-      PostgreSQL | Data Analysis
-──────────────────────────────────────
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 
 ## 📌 Project Overview
