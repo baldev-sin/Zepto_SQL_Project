@@ -201,6 +201,10 @@ Calculates the total inventory weight available for every category.
 ```
 Zepto-SQL-Project/
 │
+├── screenshots
+|
+├── License
+|
 ├── README.md
 |
 ├── zepto_sql_project.sql
