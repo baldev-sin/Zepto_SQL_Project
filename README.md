@@ -43,14 +43,23 @@ The dataset contains product-level information from Zepto, including:
 
 ```sql
 sku_id
+
 name
+
 category
+
 mrp
+
 discountpercent
+
 availablequantity
+
 discountedsellingprice
+
 weightingms
+
 outofstock
+
 quantity
 ```
 
