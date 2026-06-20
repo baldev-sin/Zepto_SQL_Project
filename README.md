@@ -125,7 +125,7 @@ Calculates price per gram for products weighing at least 100g.
 Groups products into:
 
 * Low
-* High
+* Medium
 * Bulk
 
 based on product weight.
